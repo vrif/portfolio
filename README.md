@@ -18,5 +18,5 @@ Author: Harry Yau
   - Topics: Using TensorFlow 1.0, 2.0, Keras and PyTorch to calculate Linear Regression
   - Packages: tensorflow, keras, torch, sklearn, statsmodel
 - Logistic Regression - Multiple API's [ <a href="https://github.com/vrif/portfolio/blob/master/Notebooks/TensorFlow-Keras-Pytorch/02%20Logistic%20Regression.ipynb">Static Version</a> ]
-  - Topics: Using TensorFlow 1.0, 2.0, Keras and PyTorch to calculate Linear Regression
+  - Topics: Using TensorFlow 1.0, 2.0, Keras and PyTorch to calculate Logistic Regression
   - Packages: tensorflow, keras, torch, sklearn, statsmodel
