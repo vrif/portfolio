@@ -8,7 +8,7 @@ Author: Harry Yau
 - Envistaweb Decoder [ <a href="https://github.com/vrif/envistaweb-decoder">Click Here</a> ]
   - Topic: Data decoder
 
-## Directory
+## Notebook Directory
 
 - Time Series - Keeling Curve [ <a href="https://github.com/vrif/portfolio/blob/master/Notebooks/Time%20Series%20-%20Keeling%20Curve.ipynb">Static Version</a> |
 <a href="https://nbviewer.jupyter.org/github/vrif/portfolio/blob/master/Notebooks/Time%20Series%20-%20Keeling%20Curve.ipynb?flush_cache=true">Interactive Version</a> | <a href="https://vrif.github.io/d3-keeling-curve/">D3 Version of Plot Only</a> ]
@@ -23,3 +23,7 @@ Author: Harry Yau
 - Logistic Regression - Multiple API's [ <a href="https://github.com/vrif/portfolio/blob/master/Notebooks/TensorFlow-Keras-Pytorch/02%20Logistic%20Regression.ipynb">Static Version</a> ]
   - Topics: Using TensorFlow 1.0, 2.0, Keras and PyTorch to calculate Logistic Regression
   - Packages: tensorflow, keras, torch, sklearn, statsmodel
+  
+## D3
+
+- Keeling Curve [ [Website](https://vrif.github.io/d3-keeling-curve/) | [JS Code](https://github.com/vrif/vrif.github.io/blob/master/assets/js/keeling_curve.js) ]
