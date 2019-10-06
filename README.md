@@ -27,3 +27,4 @@ Author: Harry Yau
 ## D3
 
 - Keeling Curve [ [Website](https://vrif.github.io/d3-keeling-curve/) | [JS Code](https://github.com/vrif/vrif.github.io/blob/master/assets/js/keeling_curve.js) ]
+  - With Interactive Tooltip [ [Website](https://vrif.github.io/d3-keeling-curve-tooltip/) | [JS Code](https://github.com/vrif/vrif.github.io/blob/master/assets/js/keeling_curve_tooltip.js) ]
