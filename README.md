@@ -27,5 +27,9 @@ Author: Harry Yau
 ## D3
 
 - Keeling Curve [ [Website](https://vrif.github.io/d3-keeling-curve/) | [JS Code](https://github.com/vrif/vrif.github.io/blob/master/assets/js/keeling_curve.js) ]
-  - With Interactive Tooltip [ [Website](https://vrif.github.io/d3-keeling-curve-tooltip/) | [JS Code](https://github.com/vrif/vrif.github.io/blob/master/assets/js/keeling_curve_tooltip.js) ]
-  - With an Improved Interactive Tooltip [ [Website](https://vrif.github.io/d3-keeling-curve-tooltip-improved/) | [JS Code](https://github.com/vrif/vrif.github.io/blob/master/assets/js/keeling_curve_tooltip_improved.js) ]
+- Keeling Curve With Interactive Tooltip [ [Website](https://vrif.github.io/d3-keeling-curve-tooltip/) | [JS Code](https://github.com/vrif/vrif.github.io/blob/master/assets/js/keeling_curve_tooltip.js) ]
+- Keeling Curve With an Improved Interactive Tooltip [ [Website](https://vrif.github.io/d3-keeling-curve-tooltip-improved/) | [JS Code](https://github.com/vrif/vrif.github.io/blob/master/assets/js/keeling_curve_tooltip_improved.js) ]
+  - Topics: Line Chart, Interactive Tooltip
+  
+- BC Forest Fires [ [Website](https://vrif.github.io/bc-forest-fires/) | [JS Code](https://vrif.github.io/assets/js/forest_fire.js) ]
+  - Topics: Bar Chart, Interactive Tooltip, Dropdown menu
